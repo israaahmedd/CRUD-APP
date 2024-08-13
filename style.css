@@ -1,0 +1,17 @@
+.main-txt{
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff; 
+    letter-spacing: 2px;
+    font-weight: 500;
+    
+}
+
+.box1{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
